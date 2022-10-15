@@ -3,3 +3,4 @@
 A game to correctly guess a number between 1 and 20
 
 You can play @ https://guessmynumber-ogkpos.netlify.app
+Couldn't play?, try again with a VPN
